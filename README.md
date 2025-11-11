@@ -18,17 +18,24 @@ shops at customer sites, writing technical documentation and application notes
 - Training and on-boarding of new members, supervision of student projects, coordination with internal
 engineering teams, as well as providing training and guidance to ﬁrst-level support team.
 
+
 **2019-2021 Student Software Engineer**
 - Modiﬁed an existing NFC library to a non-blocking state-machine architecture to comply with customer
 requirements for automotive use cases.
 - Developing demos, creating documentation, and other supportive tasks.
+
+
 ## Education
 ### Graz University of Technology
 **2018–2025: BSc Computer Science**
 - All coursework ﬁnished and thesis submitted; degree pending. Expected graduation: November 2025.
+  
+
 **2015–2018: BSc Software Development and Business Management**
 - Switched to Computer Science for its deeper theoretical focus and broader applications, including micro-
 controllers and embedded systems.
+
+
 **2010–2015: HTL Mössingerstraße Klagenfurt**
 - Electronics and Technical Informatics
 
