@@ -1,10 +1,12 @@
+<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+<script src="https://unpkg.com/lucide@latest"></script>
 # <span style="color: #228B22">Florian Kanduth</span>
 
 Welcome to my github page. Currently, there's not much to see, since I mainly contribute to self-hosted git servers. But, I am planning to change this in the future 😊
 
 I am currently open for job offers. If you are interested, shoot me a message on [linkedin](https://www.linkedin.com/in/florian-kanduth-7458b8198/)!
 
-## Work Experience
+## <span style="color: #228B22">  <i data-lucide="briefcase"></i> Work Experience</span>
 ### NXP Semiconductors
 **2021-2024 Application Support Engineer for automotive NFC readers**
 - Development and prototyping of experimental features such as NFC Card Protection, including soft-
@@ -25,7 +27,7 @@ requirements for automotive use cases.
 - Developing demos, creating documentation, and other supportive tasks.
 
 
-## Education
+## <span style="color: #228B22">  <i data-lucide="graduation-cap"></i> Education</span>
 ### Graz University of Technology
 **2018–2025: BSc Computer Science**
 - All coursework ﬁnished and thesis submitted; degree pending. Expected graduation: November 2025.
@@ -39,10 +41,10 @@ controllers and embedded systems.
 **2010–2015: HTL Mössingerstraße Klagenfurt**
 - Electronics and Technical Informatics
 
-## Past Projects
+## <span style="color: #228B22">  <i data-lucide="brain-circuit"></i> Skills</span>
 I am using a Synology NAS to host various docker-based applications like Home Assistant. Though I am planning to switch to custom built solution for more flexibility in the future.
 
-## Skills
+## <span style="color: #228B22">  <i data-lucide="monitor-cog"></i> Skills</span>
 **Programming Languges**
 
 My main languages I use most are:
@@ -84,3 +86,6 @@ I use Linux as a daily driver on most of my devices. Currently i am using CachyO
 
 I am fluent in German (native) and English (level C1)
 
+  <script>
+    lucide.createIcons();
+  </script>
