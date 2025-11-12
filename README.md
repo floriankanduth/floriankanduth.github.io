@@ -41,7 +41,7 @@ controllers and embedded systems.
 **2010–2015: HTL Mössingerstraße Klagenfurt**
 - Electronics and Technical Informatics
 
-## <span style="color: #228B22">  <i data-lucide="brain-circuit"></i> Skills</span>
+## <span style="color: #228B22">  <i data-lucide="brain-circuit"></i> Projects</span>
 I am using a Synology NAS to host various docker-based applications like Home Assistant. Though I am planning to switch to custom built solution for more flexibility in the future.
 
 ## <span style="color: #228B22">  <i data-lucide="monitor-cog"></i> Skills</span>
