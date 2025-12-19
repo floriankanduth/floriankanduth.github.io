@@ -1,10 +1,15 @@
 <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
 <script src="https://unpkg.com/lucide@latest"></script>
 # <span style="color: #228B22">Florian Kanduth</span>
+[github](https://github.com/floriankanduth)|[linkedin](https://www.linkedin.com/in/florian-kanduth-7458b8198/)
 
 Welcome to my github page. Currently, there's not much to see, since I mainly contribute to self-hosted git servers. But, I am planning to change this in the future 😊
 
 I am currently open for job offers. If you are interested, shoot me a message on [linkedin](https://www.linkedin.com/in/florian-kanduth-7458b8198/)!
+
+## Projects
+I am currently solving [Advent of Code 2025](https://adventofcode.com/). You can check out the repo here: [floriankanduth/AoC2025](https://github.com/floriankanduth/AoC2025).
+
 
 ## <span style="color: #228B22">  <i data-lucide="briefcase"></i> Work Experience</span>
 ### NXP Semiconductors
